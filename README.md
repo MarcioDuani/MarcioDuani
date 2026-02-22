@@ -110,8 +110,6 @@ Cadastro de atletas, geração de chaves, controle de partidas e classificação
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MarcioDuani&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcioDuani&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
