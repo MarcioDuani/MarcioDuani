@@ -39,7 +39,7 @@ dev = {
 
 <div align="center">
 
-**IA & Automação** — meu forte
+**IA & Automação**
 
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
