@@ -5,17 +5,13 @@
 
 <br/>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FBE&height=120&section=header&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FBE&height=160&section=header&text=AI+%7C+Agents+%7C+Automation&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling)
 
 </div>
 
 ---
 
-<div align="center">
-
-<img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-</div>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 🧠 Sobre mim
 
@@ -35,6 +31,7 @@ dev = {
 - ⚡ Técnico de Eletrônica que aprendeu a codar — visão única de hardware + software
 - 🌱 Atualmente explorando **LLMs**, **automação de negócios** e **multi-agent systems**
 
+<br clear="right"/>
 
 ---
 
