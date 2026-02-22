@@ -108,9 +108,9 @@ Cadastro de atletas, geração de chaves, controle de partidas e classificação
 
 <div align="center">
 
-![Márcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcioDuani&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarcioDuani&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioDuani&layout=compact&theme=tokyonight&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcioDuani&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
