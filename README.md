@@ -73,7 +73,7 @@ dev = {
 <td width="50%">
 
 ### 🤖 WhatsApp Reservas Bot
-**[→ ver repositório](https://github.com/MarcioDuani/chatbot)**
+**[→ ver repositório](https://github.com/MarcioDuani/whatsapp-reservas-bot)**
 
 AI Agent completo para atendimento de reservas via WhatsApp.
 A IA (Joana) conversa naturalente, consulta disponibilidade em tempo real, calcula valores e fecha reservas — tudo autonomamente.
